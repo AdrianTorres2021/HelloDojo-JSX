@@ -1,6 +1,6 @@
 
 
-function App() {
+function ToDo() {
   return (
     <>
   <h1>Hello Dojo!</h1> 
@@ -13,4 +13,4 @@ function App() {
     );
 }
 
-export default App;
+export default ToDo;
